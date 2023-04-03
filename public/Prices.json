@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Gym Access",
+        "Locker Rental",
+        "Fitness Classes 2x/week"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 49.99,
+      "features": [
+        "Gym Access",
+        "Locker Rental",
+        "Unlimited Fitness Classes",
+        "Personal Training 2x/month"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 79.99,
+      "features": [
+        "Gym Access",
+        "Locker Rental",
+        "Unlimited Fitness Classes",
+        "Personal Training 1x/week",
+        "Smoothie Bar Access"
+      ]
+    }
+  ]
+  
